@@ -5,7 +5,7 @@
 💀 Davidson A.
 📄 [Acesse meu LinkedIn](http://br.linkedin.com/in/davidsonadasi)
 
-### Técnologias que estou utilizando
+#### Técnologias que estou utilizando
 
 <p align="center">
 
@@ -17,7 +17,7 @@
 
 </center>
 
- Cursos | Certificados
+ #### Cursos | Certificados
 --------------------
 
 Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy [Certificado](https://www.dio.me/certificate/9C26CA5A/share)
