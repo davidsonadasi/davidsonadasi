@@ -5,6 +5,15 @@
 💀 Davidson A.
 
 📄 [Acesse meu LinkedIn](http://br.linkedin.com/in/davidsonadasi)
+
+
+### Técnologias que estou utilizando:
+
+![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg)
+
+
+
+
 <!--
 **davidsonadasi/davidsonadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
