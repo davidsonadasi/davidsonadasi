@@ -4,6 +4,7 @@
 
 💀 Davidson A.
 📄 [Acesse meu LinkedIn](http://br.linkedin.com/in/davidsonadasi)
+<br>
 
 #### Técnologias que estou utilizando
 
@@ -23,6 +24,7 @@
 Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy [Certificado](https://www.dio.me/certificate/9C26CA5A/share)
 
 ------------------
+<br>
 <center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsonadasi&show_icons=true&theme=radical)
