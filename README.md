@@ -4,6 +4,7 @@
 
 💀 Davidson A.
 
+📄 [Acesse meu LinkedIn](http://br.linkedin.com/in/davidsonadasi)
 <!--
 **davidsonadasi/davidsonadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
