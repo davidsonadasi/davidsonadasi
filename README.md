@@ -20,5 +20,7 @@ Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando S
 
 ------------------
 <center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsonadasi&show_icons=true&theme=radical)
+
 </center>
