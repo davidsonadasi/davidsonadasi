@@ -11,10 +11,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="70px"/>
-
+<br>
 
 | Cursos | Certificados |
-|--------|--------------|
+|Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy | [Certificado]|(https://www.dio.me/certificate/9C26CA5A/share)|
+
+------------------
 
 
 <!--
