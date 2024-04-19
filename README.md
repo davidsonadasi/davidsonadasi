@@ -22,11 +22,16 @@
 
 | Cursos           | Certificados                                                                                                                     |
 |--------------    | --------------                                                                                                                   |
-| Python Developer |                                                                                                                                  |
+| Python Developer                                                                                                                                    |
+| Criando um sistema bancário com Python                                 | [Certificado](https://www.dio.me/certificate/0152D6FB/share)               |
+| Otimizando o sistema bancário com funções Python                       | [Certificado](https://www.dio.me/certificate/AA4BB43D/share)               |
+| Modelando o Sistema Bancário em POO com Python                         | [Certificado](https://www.dio.me/certificate/537C3978/share)               |
 | Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy | [Certificado](https://www.dio.me/certificate/9C26CA5A/share)               |
-|     2            |                                                                            |
-|     3            |                                                                            |
-
+| Integrando Python com MongoDB Utilizando Pymongo                       | [Certificado](https://www.dio.me/certificate/550B6759/share)               |
+| Integrando Python com SQLite e MongoDB                                 | [Certificado](https://www.dio.me/certificate/1B896576/share)               |
+| Primeiros Passos com o Framework Django                                | [Certificado](https://www.dio.me/certificate/E8426B34/share)               |
+| Primeiros passos com o Framework Flask                                 | [Certificado](https://www.dio.me/certificate/9B967F5E/share)               |
+| Boas Práticas com Python                                               | [Certificado](https://www.dio.me/certificate/108B1E21/share)               |
 
 ------------------
 <br>
