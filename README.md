@@ -1,10 +1,11 @@
 # Bem vindo ao meu Github
----------------
-##### Welcome to my Github
----------------
-💀 Davidson A.
 
-📄 [Acesse meu LinkedIn](http://br.linkedin.com/in/davidsonadasi)
+#### Welcome to my Github
+---------------
+##### 💀 Davidson A.
+
+##### 📄 [Acesse meu LinkedIn](http://br.linkedin.com/in/davidsonadasi)
+
 ------------------
 <br>
 
@@ -19,10 +20,13 @@
 </p>
 
 
- #### Cursos | Certificados
---------------------
+| Cursos           | Certificados                                                                                                                     |
+|--------------    | --------------                                                                                                                   |
+| Python Developer |                                                                                                                                  |
+| Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy | [Certificado](https://www.dio.me/certificate/9C26CA5A/share)               |
+|     2            |                                                                            |
+|     3            |                                                                            |
 
-Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy [Certificado](https://www.dio.me/certificate/9C26CA5A/share)
 
 ------------------
 <br>
