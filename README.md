@@ -38,7 +38,13 @@
 
 | Cursos           | Certificados                                                                                                                     |
 |--------------    | --------------                                                                                                                   |
-| Python Developer                                                                                                                                    |
+| Formação Python Developer                                                                                                                           |
+| Análise de dados com Python e Pandas                                   | [Certificado](https://www.dio.me/certificate/VIDALEVI/share)               |
+| Fundamentos de ETL (Extract, Transform, Load) com Python               | [Certificado](https://www.dio.me/certificate/DDEDC76C/share)               |
+| Desenvolvendo Rest APIs Com Python e Flask                             | [Certificado](https://www.dio.me/certificate/3DE8C713/share)               |
+| Desenvolvimento Web com Python e Django                                | [Certificado](https://www.dio.me/certificate/81692CF2/share)               |
+| Segurança da informação com Python                                     | [Certificado](https://www.dio.me/certificate/4B6E54AF/share)               |
+| Criando uma API com Flask no Ambiente COLAB                            | [Certificado](https://www.dio.me/certificate/53C6220B/share)               |
 | Criando um sistema bancário com Python                                 | [Certificado](https://www.dio.me/certificate/0152D6FB/share)               |
 | Otimizando o sistema bancário com funções Python                       | [Certificado](https://www.dio.me/certificate/AA4BB43D/share)               |
 | Modelando o Sistema Bancário em POO com Python                         | [Certificado](https://www.dio.me/certificate/537C3978/share)               |
@@ -48,6 +54,18 @@
 | Primeiros Passos com o Framework Django                                | [Certificado](https://www.dio.me/certificate/E8426B34/share)               |
 | Primeiros passos com o Framework Flask                                 | [Certificado](https://www.dio.me/certificate/9B967F5E/share)               |
 | Boas Práticas com Python                                               | [Certificado](https://www.dio.me/certificate/108B1E21/share)               |
+
+<br>
+
+| Cursos           | Certificados                                                                                                                     |
+|--------------    | --------------                                                                                                                   |
+| Formação GitHub Certification                                                                                                                       |
+
+<br>
+
+| Cursos           | Certificados                                                                                                                     |
+|--------------    | --------------                                                                                                                   |
+| Formação Logica de Programação                                                                                                                      |
 
 ------------------
 <br>
