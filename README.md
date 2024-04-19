@@ -14,8 +14,9 @@
 <br>
 
 | Cursos | Certificados |
+| --------------------- |
 
-|Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy | [Certificado](https://www.dio.me/certificate/9C26CA5A/share)
+|Python Developer - Integrando Python com Banco de Dados Relacionais Utilizando SQLAlchemy | [Certificado](https://www.dio.me/certificate/9C26CA5A/share) |
 
 ------------------
 
