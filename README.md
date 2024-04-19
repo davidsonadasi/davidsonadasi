@@ -9,6 +9,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="70px"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" width="70px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-plain-wordmark.svg" width="70px" />
+
+
 
 <!--
 **davidsonadasi/davidsonadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
